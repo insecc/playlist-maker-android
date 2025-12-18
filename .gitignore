@@ -1,0 +1,60 @@
+# ========================================
+# Android / Gradle
+# ========================================
+.gradle/
+build/
+.cxx/
+.externalNativeBuild/
+captures/
+
+# Generated sources
+**/build/generated/
+
+# Local configuration
+local.properties
+google-services.json
+
+# Gradle wrapper
+gradle-wrapper.jar
+gradle-wrapper.properties
+
+# Android artifacts
+*.apk
+*.aab
+output-metadata.json
+
+# Logs and profiling
+*.log
+*.hprof
+
+# ========================================
+# IDE / IntelliJ / Android Studio
+# ========================================
+.idea/
+*.iml
+*.ipr
+*.iws
+.DS_Store
+
+# Optional legacy files for older AS versions
+misc.xml
+deploymentTargetDropDown.xml
+render.experimental.xml
+
+# ========================================
+# Keystore
+# ========================================
+*.jks
+*.keystore
+
+# ========================================
+# Temporary files
+# ========================================
+*.tmp
+*.bak
+*.swp
+
+# ========================================
+# Optional: Kotlin / JetBrains caches
+# ========================================
+out/
