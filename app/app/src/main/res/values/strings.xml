@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="appName">Playlist Maker</string>
+    <string name="back">Назад</string>
+    <string name="playlistMaker">Playlist Maker</string>
+    <string name="favorites">Избранное</string>
+    <string name="playlists">Плейлисты</string>
+    <string name="search">Поиск</string>
+    <string name="settings">Настройки</string>
+    <string name="clear">Очистить</string>
+    <string name="clearHistory">Очистить историю</string>
+    <string name="noResults">Ничего не нашлось</string>
+    <string name="searchHistoryTitle">История поиска</string>
+    <string name="trackTitle">Трек %1$s</string>
+    <string name="retryy">Повторить</string>
+    <string name="addToThisPlaylist">Добавить в плейлист</string>
+    <string name="create">Создать</string>
+    <string name="createNewPlaylist">Создать новый плейлист</string>
+    <string name="createPlaylistITM">Создать плейлист</string>
+    <string name="durationTrack">Длительность</string>
+    <string name="favorite">Избранное</string>
+    <string name="NewPlst">Новый плейлист</string>
+    <string name="descriptionOfPlst">Описание</string>
+    <string name="nameOfPlaylist">Название*</string>
+    <string name="deletePlaylist">Удалить плейлист</string>
+    <string name="renamePlaylist">Редактировать информацию</string>
+    <string name="share">Поделиться</string>
+    <string name="confirm">Да</string>
+    <string name="cancel">Нет</string>
+    <string name="favoritesTitleTrac">Избранные треки</string>
+    <string name="emptyFavorites">Ваша медиатека пуста</string>
+    <string name="deletePlaylistMessageConfirmCancel">Хотите удалить плейлист "%1$s"?</string>
+    <string name="internetError">Проблемы со связью\n\nЗагрузка не удалась. Проверьте подключение к интернету</string>
+    <string name="serverError">Ошибка сервера</string>
+    <string name="unknownError">Неизвестная ошибка</string>
+    <plurals name="minutes">
+        <item quantity="one">%d минута</item>
+        <item quantity="few">%d минуты</item>
+        <item quantity="many">%d минут</item>
+        <item quantity="other">%d минут</item>
+    </plurals>
+    <plurals name="tracks">
+        <item quantity="one">%d трек</item>
+        <item quantity="few">%d трека</item>
+        <item quantity="many">%d треков</item>
+        <item quantity="other">%d треков</item>
+    </plurals>
+    <string name="settingsAgreement">Пользовательское соглашение</string>
+    <string name="settingsShareString">Поделиться приложением</string>
+    <string name="settingsSupportString">Написать в поддержку</string>
+    <string name="settingsToggle">Тёмная тема</string>
+    <string name="settingsT">Настройки</string>
+    <string name="shareMessageText">Попробуй приложение Playlist Maker!</string>
+    <string name="supportMessageText">Спасибо разработчикам и разработчицам за крутое приложение!</string>
+    <string name="supportMail">main@yandex.ru</string>
+    <string name="supportSubjectText">Сообщение разработчикам и разработчицам приложения Playlist Maker</string>
+    <string name="YandexURL">https://yandex.ru/legal/practicum_offer/ru/</string>
+
+
+</resources>
